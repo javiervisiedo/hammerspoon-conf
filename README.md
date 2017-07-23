@@ -1,4 +1,4 @@
-# hammerspoon-conf
+# My Hammerspoon configuration scripts
 Lua scripts for my configuration of [Hammerspoon](http://www.hammerspoon.org/). This is the very first commit, still almost a skeleton. I will be gradually adding more functionality.
 
 I just started with Hammerspoon and Lua scripting. My goal is to define a flexible tiling system to automate windows placement. In addition it would add some key bindings and some other functionality as I understand more about how Hammerspoon works, and what else I could use it for.
