@@ -10,7 +10,7 @@ At this stage, I would not recommend to clone this repo, since it is a rough dra
 
 1. You obviously need to have [Hammerspoon](http://www.hammerspoon.org/) installed in your Mac
 2. `git clone git@github.com:redmice/hammerspoon-conf.git`
-3. Modify the [configuration](## Configuration) at the root `init.lua`
+3. Modify the [configuration](#Configuration) at the root `init.lua`
 4. Reload Hammerspoon configuration
 
 ## Modules
