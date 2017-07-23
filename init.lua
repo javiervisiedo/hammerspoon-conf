@@ -6,7 +6,7 @@ utils.enabled             = { 'reload', 'wifi' }
 
 -- wifi module configuration
 vpnWiFiSsid = "3_14_Secure"
-regularWiFiSsid = "LaCasitaDelBosque"
+directWiFiSsid = "LaCasitaDelBosque"
 
 -- start modules
 hs.fnutils.each({

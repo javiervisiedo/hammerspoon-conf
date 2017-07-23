@@ -25,7 +25,7 @@ module.start = function()
   -- Connect to regular wifi
   table.insert(bindingsArray,
     hs.hotkey.bind({"cmd", "alt", "ctrl"}, "d", function()
-      loadWiFi(regularWiFiSsid)
+      loadWiFi(directWiFiSsid)
       --hs.wifi.associate("mySSID", "myPassPhrase")
     end))
 
